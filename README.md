@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FiloBob
 - 👀 I’m interested in learning something new, and obviously videogames
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Python and C#
 - // ( 💞️ I’m looking to collaborate on ... #WORK_IN_PROGRESS)
 - // ( 📫 How to reach me ... #WORK_IN_PROGRESS)
 
